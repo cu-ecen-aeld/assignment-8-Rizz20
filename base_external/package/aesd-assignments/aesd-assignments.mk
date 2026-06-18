@@ -10,7 +10,7 @@ AESD_ASSIGNMENTS_VERSION = 'dee5ff5fac3c7c91829f822a30be140a53910578'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
-AESD_ASSIGNMENTS_SITE = 'file:///home/liz/gitwork/AdvancedEmbeddedLinuxDevelopmentSpecialization/LinuxSystemProgramming/assignments-Rizz20'
+AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-Rizz20.git'
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
